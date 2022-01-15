@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "title": "Cryptocurrency Tracker",
+      "description": "Cryptocurrency price listing application that uses CoinGecko API. On each coin page, it has a chart that is made with 'chart.js'. Charts have 1D, 1W, 1M, 1Y views. It also has built-in news for each page when an API is provided.",
+      "image": "crypto-screen.png",
+      "technologies": [
+        "React",
+        "TailwindCSS",
+        "Coingecko API",
+        "HTML5",
+        "CSS3",
+        "JavaScript"
+      ],
+      "link": "https://crypto-tracker-lemon.vercel.app"
+    },
+    {
+      "title": "Sample Tracking System",
+      "description": "In-progress sample tracking application that is made for a fabric production company. It has multiple products and multiple stages are involved. These stages are shown in a calendar. It sends notifications 3 days before every deadline.",
+      "image": "sample-tracker-screen.png",
+      "technologies": [
+        "React",
+        "Next.js",
+        "TailwindCSS",
+        "Redux",
+        "Firebase v9",
+        "HTML5",
+        "CSS3",
+        "JavaScript"
+      ],
+      "link": "https://sample-tracking-system.vercel.app"
+    },
+    {
+      "title": "dApp Authentication",
+      "description": "Web3 application that uses MetaMask to authenticate the user for various processes. If the user has 0 balance, it redirects to refill balance page once every session. It has sign message functionality.",
+      "image": "dapp-screen.png",
+      "technologies": [
+        "Web3",
+        "React",
+        "TailwindCSS",
+        "HTML5",
+        "CSS3",
+        "JavaScript"
+      ],
+      "link": "https://dapp-demo-gray.vercel.app"
+    },
+    {
+      "title": "Instagram Clone",
+      "description": "A clone of the social media application Instagram. It has Google authentication. It uses 'Faker' to create fake data (names, photos etc.). It has post, like, comment functionality. It stores the data in 'Firebase Firestore'.",
+      "image": "instagram-clone-screen.png",
+      "technologies": [
+        "React",
+        "Next.js",
+        "TailwindCSS",
+        "Redux",
+        "Firebase v9",
+        "HTML5",
+        "CSS3",
+        "JavaScript"
+      ],
+      "link": "https://instagram-2-eta.vercel.app"
+    },
+    {
+      "title": "Airbnb Clone",
+      "description": "A clone of the vacation rental application Airbnb. It uses data that is stored in JSON to list (London). It shows the locations in the map when searched. ",
+      "image": "airbnb-clone-screen.png",
+      "technologies": [
+        "React",
+        "Next.js",
+        "TailwindCSS",
+        "HTML5",
+        "CSS3",
+        "JavaScript"
+      ],
+      "link": "https://airbnb-gyunbie.vercel.app"
+    },
+    {
+      "title": "Virtual Market",
+      "description": "A simple virtual market application that is built for 'Software Engineering' lecture project. It is not a complete project, therefore it has limited functionality.",
+      "image": "virtual-market-screen.png",
+      "technologies": ["React", "TailwindCSS", "HTML5", "CSS3", "JavaScript"],
+      "link": "https://ecommerce-school-project.vercel.app"
+    }
+  ]
+}
