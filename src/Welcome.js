@@ -17,7 +17,10 @@ function Welcome() {
           <img className="bg-black mx-auto h-32" src={stack} alt="" />
         </div>
         <div className="absolute top-3 right-3">
-          <a href="mailto:ogulcan.bozkurt0@gmail.com" className="flex items-center px-1 text-white border-2 border-white rounded cursor-pointer hover:bg-white hover:text-black duration-150 ease-out">
+          <a
+            href="mailto:ogulcan.bozkurt0@gmail.com"
+            className="flex items-center px-1 text-white border-2 border-white rounded cursor-pointer hover:bg-white hover:text-black duration-150 ease-out"
+          >
             <MailIcon className="w-4 h-4 mr-1 " />
             <p className="">Contact Me</p>
           </a>
@@ -35,7 +38,10 @@ function Welcome() {
             I love to design applications and translate designs into code.
           </p>
 
-          <a className="p-2 mx-auto mt-5 text-white duration-150 ease-out border-2 border-white rounded cursor-pointer hover:bg-white hover:text-black">
+          <a
+            href="https://github.com/Gyunbie/personal/raw/main/ogulcan-resume-01-15-22.pdf"
+            className="p-2 mx-auto mt-5 text-white duration-150 ease-out border-2 border-white rounded cursor-pointer hover:bg-white hover:text-black"
+          >
             Download Resume
           </a>
         </div>
