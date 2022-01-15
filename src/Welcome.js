@@ -96,7 +96,8 @@ function Welcome() {
 
               <a
                 href={works.data[key].link}
-                target={"_blank"}
+                target="_blank"
+                rel="noreferrer"
                 className="col-span-6 cursor-pointer relative duration-100 ease-out active:scale-95"
               >
                 <div className="absolute top-0 left-0 right-0 bottom-0 hover:bg-gray-400 opacity-25 rounded-lg duration-200 ease-out"></div>
